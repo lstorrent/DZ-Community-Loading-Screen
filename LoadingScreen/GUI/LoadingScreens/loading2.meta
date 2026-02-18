@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1D429544B96A800E}loadscreens/loadscreen-2.edds"
+ Author "thelionpc"
+ ChangeDate 1037775954
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "loadscreen-2.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
