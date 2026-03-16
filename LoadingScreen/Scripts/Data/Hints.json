@@ -1,12 +1,92 @@
 [
 	{
-		"m_Headline": "Custom Title 1",
+		"m_Headline": "Hidratação",
 		"m_ImagePath": "",
-		"m_Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+		"m_Description": "Manter-se hidratado é essencial para a sobrevivência. Beba água de poços, rios ou colete água da chuva. Evite beber de lagoas sem pastilhas de purificação, pois água contaminada pode te deixar doente."
 	},
 	{
-		"m_Headline": "Custom Title 2",
+		"m_Headline": "Nutrição",
 		"m_ImagePath": "",
-		"m_Description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+		"m_Description": "Mantenha sua alimentação em dia para manter seus níveis de energia. Comida enlatada é segura, mas você vai precisar de um abridor de latas ou ferramenta afiada para abrir. Caçar e cozinhar carne também é uma fonte confiável de alimento."
+	},
+	{
+		"m_Headline": "Sangue e Saúde",
+		"m_ImagePath": "",
+		"m_Description": "Seu nível de sangue afeta a regeneração de saúde. Se você perder muito sangue, sua tela ficará cinza e você pode desmaiar. Use uma bolsa de sangue ou soro fisiológico para restaurar os níveis rapidamente."
+	},
+	{
+		"m_Headline": "Temperatura",
+		"m_ImagePath": "",
+		"m_Description": "Exposição ao frio ou chuva pode causar hipotermia. Mantenha-se aquecido usando roupas secas, ficando perto de uma fogueira ou entrando em construções. Pacotes térmicos também ajudam a elevar sua temperatura corporal."
+	},
+	{
+		"m_Headline": "Fabricação",
+		"m_ImagePath": "",
+		"m_Description": "Muitos itens podem ser combinados para criar ferramentas úteis. Combine um graveto com uma corda para fazer uma vara de pesca, ou use trapos e um graveto para fabricar uma tala para ossos quebrados."
+	},
+	{
+		"m_Headline": "Navegação",
+		"m_ImagePath": "",
+		"m_Description": "Use placas de trânsito, pontos de referência e a posição do sol ou estrelas para se orientar. Uma bússola e um mapa podem te ajudar a encontrar o caminho. O sol nasce no leste e se põe no oeste."
+	},
+	{
+		"m_Headline": "Tratamento de Ferimentos",
+		"m_ImagePath": "",
+		"m_Description": "Se você estiver sangrando, use trapos ou bandagens para estancar o sangramento imediatamente. Ferimentos não tratados podem causar infecção e eventualmente a morte. Sempre carregue suprimentos médicos no seu inventário."
+	},
+	{
+		"m_Headline": "Cozinha",
+		"m_ImagePath": "",
+		"m_Description": "Carne crua pode conter parasitas e te deixar doente. Sempre cozinhe a carne em uma fogueira ou fogão a gás antes de comer. Você também pode usar uma panela para ferver água e torná-la segura para beber."
+	},
+	{
+		"m_Headline": "Furtividade",
+		"m_ImagePath": "",
+		"m_Description": "Agachar e se mover devagar reduz o barulho que você faz. Infectados são atraídos por som e movimento. Evite disparar armas perto de cidades, pois tiros atraem tanto infectados quanto outros jogadores."
+	},
+	{
+		"m_Headline": "Construção de Base",
+		"m_ImagePath": "",
+		"m_Description": "Você pode construir abrigos e armazenamento usando tábuas de madeira, pregos e outros materiais. Um kit de cerca combinado com materiais de construção permite criar paredes e portões para proteger sua base."
+	},
+	{
+		"m_Headline": "Veículos",
+		"m_ImagePath": "",
+		"m_Description": "Veículos precisam de peças específicas para funcionar: bateria, vela de ignição, radiador e água no radiador. Verifique a condição de todos os pneus antes de dirigir. Sempre carregue peças sobressalentes para emergências."
+	},
+	{
+		"m_Headline": "Doenças",
+		"m_ImagePath": "",
+		"m_Description": "Comer carne crua, beber água suja ou ficar perto de jogadores doentes pode causar doenças. Comprimidos de tetraciclina curam a maioria das doenças. Mantenha seu sistema imunológico forte ficando bem alimentado e hidratado."
+	},
+	{
+		"m_Headline": "Gerenciamento de Inventário",
+		"m_ImagePath": "",
+		"m_Description": "Roupas e mochilas oferecem diferentes quantidades de espaço. Priorize carregar itens essenciais como comida, água, suprimentos médicos e munição. Descarte itens que não precisa mais para liberar espaço."
+	},
+	{
+		"m_Headline": "Armas de Fogo",
+		"m_ImagePath": "",
+		"m_Description": "Armas de fogo são barulhentas e atraem atenção. Verifique a condição da sua arma e munição antes de entrar em combate. Armas e munições danificadas podem travar ou falhar em momentos críticos."
+	},
+	{
+		"m_Headline": "Sobrevivência Noturna",
+		"m_ImagePath": "",
+		"m_Description": "As noites em Chernarus são escuras e perigosas. Use uma lanterna, lanterna de cabeça ou bastão luminoso para enxergar no escuro. Fontes de luz podem revelar sua posição para outros jogadores e infectados."
+	},
+	{
+		"m_Headline": "Pesca",
+		"m_ImagePath": "",
+		"m_Description": "Pescar é uma fonte confiável de comida perto da costa. Fabrique uma vara de pesca usando um graveto e corda, depois coloque uma isca como minhocas. Cozinhe o peixe antes de comer para evitar intoxicação alimentar."
+	},
+	{
+		"m_Headline": "Infectados",
+		"m_ImagePath": "",
+		"m_Description": "Infectados podem ser perigosos em grupos. Use armas corpo a corpo para lidar com eles silenciosamente. Mire na cabeça para causar dano máximo. Evite atrair grandes grupos ficando quieto e se movendo com cuidado."
+	},
+	{
+		"m_Headline": "Fraturas",
+		"m_ImagePath": "",
+		"m_Description": "Cair de alturas ou levar pancadas fortes pode quebrar seus ossos. Uma tala feita de trapos e gravetos vai consertar a fratura. Auto-injetores de morfina também funcionam instantaneamente para curar ossos quebrados."
 	}
 ]
